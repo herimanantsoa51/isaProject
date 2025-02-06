@@ -1,7 +1,7 @@
 #include "isa.h"
 #include <iostream>
 using namespace isa;
-
+/*object to compute each objet of isa between them*/
 Arithmetic::Arithmetic()
 {
     std::cout<<"an Object Arithmetic was created"<<std::endl;
